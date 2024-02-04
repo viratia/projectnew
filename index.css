@@ -1,0 +1,25 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header
+{
+    background-color:#212529;
+    color: white;
+}
+.para p
+{
+    color: whitesmoke;
+}
+.net p
+{
+    font-style: italic;
+    padding: 10px;
+  
+}
+.net
+{
+    background-color: #F8F9FA;
+}
